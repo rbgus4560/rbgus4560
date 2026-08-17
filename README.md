@@ -1,24 +1,3 @@
-# 고규현 | KyuHyun Ko
-
-Software Developer
-
-Backend, AI Vision, Desktop Software 분야를 중심으로 공부하고 있습니다.
-
-기존 프로젝트를 단순히 사용하는 것보다  
-직접 구조를 분석하고 수정하며 이해하는 과정을 중요하게 생각합니다.
-
----
-
-## About Me
-
-- 한국폴리텍대학 인공지능소프트웨어 과정
-- Backend / Server Programming 학습
-- AI Vision 및 YOLO 기반 객체 탐지 프로젝트 경험
-- C/C++ 및 MFC 기반 Windows 프로그램 학습
-- 네트워크 유지보수 실무 경험
-- 프로젝트 구조 분석 및 리팩토링 학습 중
-
----
 
 ## Studied & Practiced
 
