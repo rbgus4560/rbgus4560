@@ -1,5 +1,5 @@
 
-## Studied & Practiced
+## Studied & Used & Experienced
 
 | Category | Technologies |
 | --- | --- |
