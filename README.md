@@ -1,18 +1,8 @@
 
 ## Studied & Used & Experienced
 
-| Category | Technologies |
-| --- | --- |
-| Programming | Python, C, C++, Java |
-| Backend | Spring Boot, MVC, REST API |
-| AI / Vision | YOLO, OpenCV, Object Detection |
-| Desktop | MFC, Win32 기반 프로그램 구조 |
-| Application | Flutter, Dart |
-| Web | HTML, CSS, JavaScript |
-| Database | SQL, Database Fundamentals |
-| Network | TCP/IP, Client-Server Architecture |
-| Environment | Linux, Git, GitHub, Conda |
-| Tools | VS Code, Visual Studio, IntelliJ, Eclipse |
+Python | C++ | MFC | OpenCV | YOLO
+Flutter | Dart | TCP/IP
 
 ---
 
