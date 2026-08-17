@@ -46,36 +46,3 @@ Backend, AI Vision, Desktop Software 분야를 중심으로 공부하고 있습�
 | [YOLO Helmet Detection](https://github.com/rbgus4560/YOLO-Helmet-Detection) | 안전모 착용 여부 탐지를 위한 YOLO 모델 학습 및 모델별 성능 비교 | Python, YOLO |
 | [ShoppingMall Web](https://github.com/rbgus4560/ShoppingMall-Web) | 검색 기록을 기반으로 상품을 추천하는 프론트엔드 쇼핑몰 프로젝트 | HTML, CSS, JavaScript, LocalStorage |
 | [Software Learning](https://github.com/rbgus4560/Software-Learning) | 교육과정과 개인 학습에서 진행한 프로그래밍 실습 및 학습 내용 정리 | Python, C/C++, Java, Linux, Git |
-
----
-
-## AI / Computer Vision
-
-### Helmet Detection
-
-안전모 착용 여부를 탐지하는 객체 탐지 모델을 학습하고  
-YOLO 모델별 정확도와 실시간 처리 성능을 비교했습니다.
-
-- Dataset Labeling & Augmentation
-- YOLO Model Training
-- Precision / Recall 비교
-- mAP 비교
-- FPS / Inference Time 비교
-- 실시간 관제 환경을 고려한 모델 선정
-
-### AI Safety Monitoring
-
-기존 팀프로젝트를 기반으로 전체 프로그램 구조를 다시 분석하고 있습니다.
-
-```text
-Camera
-  ↓
-Client
-  ↓
-YOLO Inference
-  ↓
-TCP/IP
-  ↓
-Central Server
-  ↓
-Viewer
