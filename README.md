@@ -49,11 +49,6 @@
 
 ## Keep Learning
 
-- C# / .NET
-- ASP.NET Core
-- MFC / OpenCV
 - FastAPI
 - TCP/IP
 - Linux
-- Git / GitHub
-- SQL / Database
