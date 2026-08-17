@@ -3,7 +3,7 @@
 
 | 프로젝트 | 내용 |
 |---|---|
-| [Safety-AI-Monitoring-Service]([링크](https://github.com/rbgus4560/project01_Safety-AI-Monitoring-Service.git)) | Client-Server-Viewer 기반 AI 안전 관제 시스템 개인화 |
+| [Safety-AI-Monitoring-Service](https://github.com/rbgus4560/project01_Safety-AI-Monitoring-Service.git) | Client-Server-Viewer 기반 AI 안전 관제 시스템 개인화 |
 
 ---
 
