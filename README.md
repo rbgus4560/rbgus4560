@@ -3,8 +3,7 @@
 
 | 프로젝트 | 내용 |
 |---|---|
-| [AI Safety Monitor](링크) | Client-Server-Viewer 기반 AI 안전 관제 시스템 개인화 |
-| [WebCam YOLO](링크) | C++ / MFC / OpenCV 기반 실시간 객체 탐지 실습 |
+| [project01_Safety-AI-Monitoring-Service](링크) | Client-Server-Viewer 기반 AI 안전 관제 시스템 개인화 |
 
 ---
 
