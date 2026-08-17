@@ -8,7 +8,7 @@ Flutter | Dart | TCP/IP
 
 ## Projects
 
-| Project | Description | Technologies |
+| 프로젝트 | 설명 | 기술 |
 | --- | --- | --- |
 | [AI Safety Monitoring System](https://github.com/rbgus4560/AI-Safety-Monitoring-System) | 기존 팀프로젝트의 구조를 분석하고 UI 및 클라이언트·서버·뷰어 구조를 개인화한 AI 안전 관제 시스템 | Python, YOLO, Flutter, Dart, TCP/IP |
 | [MFC YOLO Vision](https://github.com/rbgus4560/MFC-YOLO-Vision) | Webcam 영상을 OpenCV로 처리하고 YOLO 객체 탐지를 적용하는 Windows 데스크톱 프로그램 | C++, MFC, OpenCV, YOLO |
