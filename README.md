@@ -10,13 +10,14 @@
 
 ## Study & Practice
 
-| 분야 | 저장소 | 내용 |
-|---|---|---|
-| Python | [python](https://github.com/rbgus4560/1.%20python) | 알고리즘, 과제, 미니 프로젝트 |
-| Java | [Java_2026](https://github.com/rbgus4560/Java_2026) | 기본 문법, 객체지향, 문제 풀이 |
-| Web | [Web-language](https://github.com/rbgus4560/Web-language) | HTML/CSS/JavaScript UI 구현 |
-| Computer Vision | [ComputerVision](https://github.com/rbgus4560/ComputerVision) | OpenCV, YOLO, 이미지 처리 기초 |
-| SQL | [Sql_Study](https://github.com/rbgus4560/3.%20SQL) | 데이터 조회 및 분석, SQLD |
+| 분야 | 저장소 | 내용 | 상태 |
+|---|---|---|---|
+| Python | [Learning / Python](https://github.com/rbgus4560/Learning/tree/main/1.%20python) | Python 기초 문법, 함수, 객체지향, 예외처리 등 | 정리 완료 |
+| 자료구조 | [Learning / 자료구조](https://github.com/rbgus4560/Learning/tree/main/2.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0) | 알고리즘, 선형 자료구조, 정렬, 트리, 그래프 | 정리 완료 |
+| SQL | [Learning / SQL](https://github.com/rbgus4560/Learning/tree/main/3.%20SQL) | 데이터 모델링, SQL 기본·활용, SQL 최적화 | 정리 완료 |
+| Java | 정리 예정 | 기본 문법, 객체지향, 문제 풀이 | 정리 예정 |
+| Web | 정리 예정 | HTML / CSS / JavaScript UI 구현 | 정리 예정 |
+| Computer Vision | 정리 예정 | OpenCV, YOLO, 이미지 처리 기초 | 정리 예정 |
 
 ---
 
