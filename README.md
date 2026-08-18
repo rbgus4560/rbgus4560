@@ -12,13 +12,10 @@
 
 | 분야 | 저장소 | 내용 |
 |---|---|---|
-| 종합 실습 | [Practicum](https://github.com/rbgus4560/Practicum) | 자료구조, Python/C++, Web, OpenCV 기초 실습 |
 | Python | [python](https://github.com/rbgus4560/1.%20python) | 알고리즘, 과제, 미니 프로젝트 |
 | Java | [Java_2026](https://github.com/rbgus4560/Java_2026) | 기본 문법, 객체지향, 문제 풀이 |
 | Web | [Web-language](https://github.com/rbgus4560/Web-language) | HTML/CSS/JavaScript UI 구현 |
 | Computer Vision | [ComputerVision](https://github.com/rbgus4560/ComputerVision) | OpenCV, YOLO, 이미지 처리 기초 |
-| C / C++ | [C-language](https://github.com/rbgus4560/C-language) | 기초 문법 및 자료구조 |
-| Spring | [Java_Spring_Study](https://github.com/rbgus4560/Java_Spring_Study) | Spring 기반 백엔드 구조, REST API 학습 예정 |
 | SQL | [Sql_Study](https://github.com/rbgus4560/3.%20SQL) | 데이터 조회 및 분석, SQLD |
 
 ---
