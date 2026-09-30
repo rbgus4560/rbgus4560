@@ -3,11 +3,9 @@
 C# / .NET 기반 **Windows 응용 프로그램 개발**을 중심으로  
 **AI 비전 · TCP/IP 통신 · 백엔드 · 데이터 처리**를 공부하고 있습니다.
 
-배운 기술을 단순히 정리하는 것보다, 실제 동작하는 프로젝트로 구현하고 개선하는 것을 목표로 하고 있습니다.
-
 ---
 
-## 🛠 기술 스택
+##  기술 스택
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -22,18 +20,18 @@ C# / .NET 기반 **Windows 응용 프로그램 개발**을 중심으로
 
 ---
 
-## 📁 프로젝트
+##  프로젝트
 
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
-| 🚪 **얼굴인식 출입통제 시스템** | 얼굴 등록·인증을 통해 출입 여부를 판정하고, TCP/IP 서버에서 출입 기록과 상태를 모니터링하는 시스템 | C# · .NET · Face Recognition · TCP/IP |
-| 🦺 **넘어짐 감지 안전 관제 시스템** | 카메라 영상에서 YOLO-Pose 기반으로 넘어짐·쓰러짐을 감지하고 이벤트를 서버로 전달하는 모니터링 시스템 | C# · .NET · YOLO-Pose · ONNX · TCP/IP |
-| 🖥️ **PC 부품 크롤링 서비스** | 구조가 다른 여러 쇼핑몰의 PC 부품 정보를 수집하고 공통 기준으로 정제하여 DB에 저장하는 프로젝트 | Python · Selenium · BeautifulSoup · PostgreSQL |
-| 🤖 [**AI 안전 관제 시스템**](https://github.com/rbgus4560/project01_Safety-AI-Monitoring-Service) | 기존 팀프로젝트의 Client / Server / Viewer 구조를 분석하고 개인 포트폴리오 형태로 재정리한 프로젝트 | Python · FastAPI · YOLO · TCP/IP |
+|  **얼굴인식 출입통제 시스템** | 얼굴 등록·인증을 통해 출입 여부를 판정하고, TCP/IP 서버에서 출입 기록과 상태를 모니터링하는 시스템 | C# · .NET · Face Recognition · TCP/IP |
+|  **넘어짐 감지 안전 관제 시스템** | 카메라 영상에서 YOLO-Pose 기반으로 넘어짐·쓰러짐을 감지하고 이벤트를 서버로 전달하는 모니터링 시스템 | C# · .NET · YOLO-Pose · ONNX · TCP/IP |
+|  **PC 부품 크롤링 서비스** | 구조가 다른 여러 쇼핑몰의 PC 부품 정보를 수집하고 공통 기준으로 정제하여 DB에 저장하는 프로젝트 | Python · Selenium · BeautifulSoup · PostgreSQL |
+|  [**AI 안전 관제 시스템**](https://github.com/rbgus4560/project01_Safety-AI-Monitoring-Service) | 기존 팀프로젝트의 Client / Server / Viewer 구조를 분석하고 개인 포트폴리오 형태로 재정리한 프로젝트 | Python · FastAPI · YOLO · TCP/IP |
 
 ---
 
-## 📘 학습 및 실습
+##  학습 및 실습
 
 | 분야 | 저장소 / 내용 | 주요 내용 |
 |---|---|---|
@@ -45,7 +43,7 @@ C# / .NET 기반 **Windows 응용 프로그램 개발**을 중심으로
 
 ---
 
-## 🎯 현재 집중하고 있는 분야
+##  현재 집중하고 있는 분야
 
 - C# / .NET 기반 Windows 응용 프로그램 개발
 - WinForms / WPF를 활용한 GUI 프로그램 구현
