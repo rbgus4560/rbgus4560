@@ -1,52 +1,59 @@
+# 고규현
 
-# Projects
+C# / .NET 기반 **Windows 응용 프로그램 개발**을 중심으로  
+**AI 비전 · TCP/IP 통신 · 백엔드 · 데이터 처리**를 공부하고 있습니다.
 
-| 프로젝트 | 내용 | 상태 |
+배운 기술을 단순히 정리하는 것보다, 실제 동작하는 프로젝트로 구현하고 개선하는 것을 목표로 하고 있습니다.
+
+---
+
+## 🛠 기술 스택
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📁 프로젝트
+
+| 프로젝트 | 설명 | 기술 |
 |---|---|---|
-| [project01_Safety-AI-Monitoring-Service](https://github.com/rbgus4560/project01_Safety-AI-Monitoring-Service) | Client-Server-Viewer 기반 AI 안전 관제 시스템 개인화 | 1차 정리 중 |
-| MFC / OpenCV Webcam Practice | C++ / MFC / OpenCV 기반 웹캠 및 객체탐지 실습 | 진행 예정 / 미완료 |
+| 🚪 **얼굴인식 출입통제 시스템** | 얼굴 등록·인증을 통해 출입 여부를 판정하고, TCP/IP 서버에서 출입 기록과 상태를 모니터링하는 시스템 | C# · .NET · Face Recognition · TCP/IP |
+| 🦺 **넘어짐 감지 안전 관제 시스템** | 카메라 영상에서 YOLO-Pose 기반으로 넘어짐·쓰러짐을 감지하고 이벤트를 서버로 전달하는 모니터링 시스템 | C# · .NET · YOLO-Pose · ONNX · TCP/IP |
+| 🖥️ **PC 부품 크롤링 서비스** | 구조가 다른 여러 쇼핑몰의 PC 부품 정보를 수집하고 공통 기준으로 정제하여 DB에 저장하는 프로젝트 | Python · Selenium · BeautifulSoup · PostgreSQL |
+| 🤖 [**AI 안전 관제 시스템**](https://github.com/rbgus4560/project01_Safety-AI-Monitoring-Service) | 기존 팀프로젝트의 Client / Server / Viewer 구조를 분석하고 개인 포트폴리오 형태로 재정리한 프로젝트 | Python · FastAPI · YOLO · TCP/IP |
 
 ---
 
-## Study & Practice
+## 📘 학습 및 실습
 
-| 분야 | 저장소 | 내용 | 상태 |
-|---|---|---|---|
-| Python | [Learning / Python](https://github.com/rbgus4560/Learning/tree/main/1.%20python) | Python 기초 문법, 함수, 객체지향, 예외처리 등 | 정리 완료 |
-| 자료구조 | [Learning / 자료구조](https://github.com/rbgus4560/Learning/tree/main/2.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0) | 알고리즘, 선형 자료구조, 정렬, 트리, 그래프 | 정리 완료 |
-| SQL | [Learning / SQL](https://github.com/rbgus4560/Learning/tree/main/3.%20SQL) | 데이터 모델링, SQL 기본·활용, SQL 최적화 | 정리 완료 |
-| Java | 정리 예정 | 기본 문법, 객체지향, 문제 풀이 | 정리 예정 |
-| Web | 정리 예정 | HTML / CSS / JavaScript UI 구현 | 정리 예정 |
-| Computer Vision | 정리 예정 | OpenCV, YOLO, 이미지 처리 기초 | 정리 예정 |
-
----
-
-## Main Portfolio Focus
-
-### AI Safety Monitor Portfolio
-
-기존 팀프로젝트인 AI 안전 관제 시스템을 다시 분석하고, 개인 포트폴리오 형태로 정리하고 있습니다.
-
-주요 정리 내용:
-
-- Client / Server / Viewer 구조 재확인
-- Viewer 관리자 로그인 및 Server 연결 확인
-- Viewer UI / UX 개인화
-- Live Monitoring 1 / 4 / 9분할 화면 정리
-- 카메라 그룹 및 배치 저장 UI 정리
-- Viewer Server URL 오류 수정
-- Client Windows Build 오류 수정
-- README 및 실행 가이드 정리
-
-현재 한계:
-
-- 실제 USB 카메라 기반 전체 파이프라인은 아직 최종 검증 전입니다.
-- 실시간 YOLO 추론, 이벤트 생성, 클립 저장은 카메라 확보 후 추가 검증 예정입니다.
+| 분야 | 저장소 / 내용 | 주요 내용 |
+|---|---|---|
+| Python | [Learning / Python](https://github.com/rbgus4560/Learning/tree/main/1.%20python) | 기초 문법 · 함수 · 객체지향 · 예외처리 |
+| 자료구조 | [Learning / 자료구조](https://github.com/rbgus4560/Learning/tree/main/2.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0) | 선형 자료구조 · 정렬 · 트리 · 그래프 |
+| SQL | [Learning / SQL](https://github.com/rbgus4560/Learning/tree/main/3.%20SQL) | 데이터 모델링 · SQL 기본/활용 · 최적화 |
+| Java / Spring | Java 및 Spring 기반 웹 애플리케이션 실습 | Java · Spring MVC · JSP · DB 연동 |
+| Computer Vision | OpenCV 및 딥러닝 비전 실습 | OpenCV · YOLO · PyTorch |
 
 ---
 
-## Keep Learning
+## 🎯 현재 집중하고 있는 분야
 
-- FastAPI
-- TCP/IP
-- Linux
+- C# / .NET 기반 Windows 응용 프로그램 개발
+- WinForms / WPF를 활용한 GUI 프로그램 구현
+- TCP/IP 기반 Client / Server 통신
+- YOLO · OpenCV · ONNX를 활용한 AI 비전 기능 연동
+- Java / Spring 기반 백엔드 및 데이터 처리
+- 크롤링 데이터 정제 · DB 저장 · 서비스 연동
+
+---
+
+### 꾸준히 만들고, 기록하고, 개선해 나가고 있습니다.
