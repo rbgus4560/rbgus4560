@@ -37,6 +37,7 @@ C# / .NET 기반 **Windows 응용 프로그램 개발**을 중심으로
 
 | 분야 | 저장소 / 내용 | 주요 내용 |
 |---|---|---|
+| C# / .NET | C# 및 Windows 응용 프로그램 실습 | C# 기본 문법 · 객체지향 · .NET · WinForms · WPF |
 | Python | [Learning / Python](https://github.com/rbgus4560/Learning/tree/main/1.%20python) | 기초 문법 · 함수 · 객체지향 · 예외처리 |
 | 자료구조 | [Learning / 자료구조](https://github.com/rbgus4560/Learning/tree/main/2.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0) | 선형 자료구조 · 정렬 · 트리 · 그래프 |
 | SQL | [Learning / SQL](https://github.com/rbgus4560/Learning/tree/main/3.%20SQL) | 데이터 모델링 · SQL 기본/활용 · 최적화 |
