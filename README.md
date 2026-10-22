@@ -29,8 +29,8 @@ C# / .NET 기반 **Windows 응용 프로그램 개발**을 중심으로
 |  [**AI 안전 관제 시스템**](https://github.com/rbgus4560/project01_Safety-AI-Monitoring-Service.git) | OLO 기반으로 안전모 착용 여부를 탐지하고, Client-Server-Viewer 구조로 감지 결과와 이벤트를 관리·모니터링하는 시스템 | Python · FastAPI · YOLO · TCP/IP 
 |  [**얼굴 인식 출입 통제 시스템**](https://github.com/rbgus4560/access-control-system) | 방향별 얼굴 등록과 전체 직원 식별, 서버 권한 판정·출입 기록, 실시간 영상 관제·녹화·재생을 연결한 시스템 | C# · .NET 10 · WPF · Python · ArcFace · MediaPipe · OpenCV · PostgreSQL · TCP/IP·TLS |
 |  [**넘어짐 감지 안전 관제 시스템**](https://github.com/rbgus4560/fall-detection-monitoring-system) | YOLO-Pose 기반으로 넘어짐·쓰러짐을 감지하고 이벤트를 서버로 전달하는 안전 관제 시스템 | C# · .NET · YOLO-Pose · ONNX · TCP/IP |
-|  [**PC 부품 크롤링 서비스**](https://github.com/rbgus4560/pc-parts-crawler-service) | 여러 쇼핑몰의 PC 부품 정보를 수집하고 공통 기준으로 정제·통합하여 DB에 저장하는 서비스 | Python · Selenium · BeautifulSoup · PostgreSQL |
-|  [**병원 기록 관리 서비스**](https://github.com/rbgus4560/hospital-record-management-service) | 병원 문서를 OCR로 인식하고, 추출된 정보를 AI로 정리하여 환자별 기록으로 저장·조회하는 웹 서비스 | React · Java · Spring Boot · CLOVA OCR · AI API · PostgreSQL |
+|  [**PC 부품 크롤링·가격 비교 서비스**](https://github.com/rbgus4560/pc-parts-crawler-service) | 컴퓨존·다나와 상품을 수집하고 규격별로 정제·저장해 웹 검색·가격 이력·기본 호환성을 조회하는 시스템 | Python · Requests · Selenium · BeautifulSoup · Flask · PostgreSQL |
+|  [**병원 영수증 OCR 기록·일정 관리 웹**](https://github.com/rbgus4560/hospital-record-management-service) | 영수증 OCR 결과를 원본과 대조·수정하고 환자별 기록·일정을 React 메모리로 관리하며 PDF·ZIP으로 내보내는 웹 과제 | React · Python · FastAPI · CLOVA OCR · jsPDF · JSZip |
 
 ---
 
