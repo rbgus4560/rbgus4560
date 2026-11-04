@@ -24,13 +24,13 @@ C# / .NET 기반 **Windows 응용 프로그램 개발**을 중심으로
 
 ##  프로젝트
 
-| 프로젝트 | 설명 | 기술 | 비고 |
-|---|---|---|---|
+| 프로젝트 | 설명 | 기술 | 비고&nbsp;&nbsp;&nbsp; |
+|---|---|---|:---:|
 | [**AI 안전 관제 시스템**](https://github.com/rbgus4560/project01_Safety-AI-Monitoring-Service.git) | OLO 기반으로 안전모 착용 여부를 탐지하고, Client-Server-Viewer 구조로 감지 결과와 이벤트를 관리·모니터링하는 시스템 | Python · FastAPI · YOLO · TCP/IP | - |
 | [**CNN 이미지 분류 및 학습 조건 비교**](https://github.com/rbgus4560/cnn-learning-experiments) | CNN 구조·학습·평가를 이해하고 Keras·PyTorch, 옵티마이저·모델 구조에 따른 결과를 비교한 학습 프로젝트 (비공개 저장소) | Python · TensorFlow/Keras · PyTorch · scikit-learn | - |
 | [**PC 부품 크롤링·가격 비교 서비스**](https://github.com/rbgus4560/pc-parts-crawler-service) | 컴퓨존·다나와 상품을 수집하고 규격별로 정제·저장해 웹 검색·가격 이력·기본 호환성을 조회하는 시스템 | Python · Requests · Selenium · BeautifulSoup · Flask · PostgreSQL | - |
 | [**얼굴 인식 출입 통제 시스템**](https://github.com/rbgus4560/access-control-system) | 방향별 얼굴 등록과 전체 직원 식별, 서버 권한 판정·출입 기록, 실시간 영상 관제·녹화·재생을 연결한 시스템 | C# · .NET 10 · WPF · Python · ArcFace · MediaPipe · OpenCV · PostgreSQL · TCP/IP·TLS | - |
-| [**병원 영수증 OCR 기록·일정 관리 웹**](https://github.com/rbgus4560/hospital-record-management-service) | 영수증 OCR 결과를 원본과 대조·수정하고 환자별 기록·일정을 React 메모리로 관리하며 PDF·ZIP으로 내보내는 웹 과제 | React · Python · FastAPI · CLOVA OCR · jsPDF · JSZip | 진행 중 |
+| [**병원 영수증 OCR 기록·일정 관리 웹**](https://github.com/rbgus4560/hospital-record-management-service) | 영수증 OCR 결과를 원본과 대조·수정하고 환자별 기록·일정을 React 메모리로 관리하며 PDF·ZIP으로 내보내는 웹 과제 | React · Python · FastAPI · CLOVA OCR · jsPDF · JSZip | 진행&nbsp;중 |
 
 ---
 
