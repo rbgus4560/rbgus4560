@@ -8,17 +8,49 @@ C# / .NET 기반 **Windows 응용 프로그램 개발**을 중심으로
 
 ##  기술 스택
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<table>
+  <thead>
+    <tr><th align="left">구분</th><th align="left">기술</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="125">언어</td>
+      <td><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" height="22" /> <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white" height="22" /> <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" height="22" /> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" height="22" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-B58B00?style=flat-square&amp;logo=javascript&amp;logoColor=white" height="22" /> <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" height="22" /> <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&amp;logo=css&amp;logoColor=white" height="22" /></td>
+    </tr>
+    <tr>
+      <td width="125">AI·ML</td>
+      <td><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" height="22" /> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" height="22" /> <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=flat-square&amp;logo=keras&amp;logoColor=white" height="22" /> <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" height="22" /> <img alt="YOLO" src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&amp;logo=yolo&amp;logoColor=white" height="22" /> <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-008D9D?style=flat-square&amp;logo=mediapipe&amp;logoColor=white" height="22" /></td>
+    </tr>
+    <tr>
+      <td width="125">데이터</td>
+      <td><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" height="22" /> <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" height="22" /> <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" height="22" /></td>
+    </tr>
+    <tr>
+      <td width="125">백엔드</td>
+      <td><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-548D23?style=flat-square&amp;logo=springboot&amp;logoColor=white" height="22" /> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" height="22" /> <img alt="Flask" src="https://img.shields.io/badge/Flask-292F33?style=flat-square&amp;logo=flask&amp;logoColor=white" height="22" /></td>
+    </tr>
+    <tr>
+      <td width="125">프론트·앱</td>
+      <td><img alt="React" src="https://img.shields.io/badge/React-087EA4?style=flat-square&amp;logo=react&amp;logoColor=white" height="22" /> <img alt="WPF" src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" height="22" /></td>
+    </tr>
+    <tr>
+      <td width="125">수집</td>
+      <td><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&amp;logo=selenium&amp;logoColor=white" height="22" /> <img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-52646A?style=flat-square" height="22" /> <img alt="Requests" src="https://img.shields.io/badge/Requests-2A6376?style=flat-square" height="22" /></td>
+    </tr>
+    <tr>
+      <td width="125">DB</td>
+      <td><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169A1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" height="22" /> <img alt="SQL" src="https://img.shields.io/badge/SQL-405268?style=flat-square" height="22" /></td>
+    </tr>
+    <tr>
+      <td width="125">환경·버전관리</td>
+      <td><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" height="22" /> <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-449C28?style=flat-square&amp;logo=anaconda&amp;logoColor=white" height="22" /> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-24292E?style=flat-square&amp;logo=github&amp;logoColor=white" height="22" /></td>
+    </tr>
+    <tr>
+      <td width="125">IDE·도구</td>
+      <td><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square" height="22" /> <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square" height="22" /> <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-BA6500?style=flat-square&amp;logo=googlecolab&amp;logoColor=white" height="22" /> <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-178C71?style=flat-square&amp;logo=openai&amp;logoColor=white" height="22" /> <img alt="Codex" src="https://img.shields.io/badge/Codex-333333?style=flat-square&amp;logo=openai&amp;logoColor=white" height="22" /></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
