@@ -57,31 +57,11 @@ C#·WPF로 Windows 관제 화면을 구현하고, Python으로 영상 처리와 
 
 ## 02. 프로젝트 | Projects
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/rbgus4560/access-control-system"><img src="https://raw.githubusercontent.com/rbgus4560/access-control-system/main/AccessControl_UI/docs/images/system-architecture.png" alt="얼굴 인식 출입 통제 시스템 구성도" width="260" height="143"></a>
-      <br><sub>Windows · 컴퓨터 비전</sub>
-      <br><strong><a href="https://github.com/rbgus4560/access-control-system">얼굴 인식 기반 출입 통제 시스템 ↗</a></strong>
-      <p>얼굴 식별과 출입 권한 판정을 연결하고, WPF에서 실시간 영상과 출입 기록을 확인합니다.</p>
-      <code>C#</code> <code>WPF</code> <code>Python</code> <code>OpenCV</code>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/rbgus4560/pc-parts-crawler-service"><img src="https://raw.githubusercontent.com/rbgus4560/pc-parts-crawler-service/main/docs/images/system-architecture.png" alt="PC 부품 수집부터 가격 조회까지의 흐름" width="260" height="143"></a>
-      <br><sub>웹 · 데이터 수집</sub>
-      <br><strong><a href="https://github.com/rbgus4560/pc-parts-crawler-service">PC 부품 데이터 통합 검색 ↗</a></strong>
-      <p>컴퓨존과 다나와의 상품을 수집·정제해 부품 검색과 가격 이력 조회를 제공합니다.</p>
-      <code>Python</code> <code>Selenium</code> <code>Flask</code> <code>PostgreSQL</code>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/rbgus4560/hospital-record-management-service"><img src="https://raw.githubusercontent.com/rbgus4560/hospital-record-management-service/main/docs/screenshots/home-dashboard.png" alt="병원 영수증 기록과 일정 관리 홈 화면" width="260" height="143"></a>
-      <br><sub>웹 · OCR</sub>
-      <br><strong><a href="https://github.com/rbgus4560/hospital-record-management-service">병원 영수증 OCR 기록·일정 관리 ↗</a></strong>
-      <p>영수증 OCR 결과를 검토·수정하고 환자별 기록과 일정을 저장합니다.</p>
-      <code>React</code> <code>FastAPI</code> <code>CLOVA OCR</code> <code>PostgreSQL</code>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/rbgus4560/access-control-system"><img src="assets/projects/access-control-card.svg" width="32%" alt="얼굴 인식 기반 출입 통제 시스템. 얼굴 식별과 출입 권한 판정을 연동하고 WPF에서 실시간 영상과 기록을 확인합니다. 기술 C#, WPF, Python, OpenCV"></a>
+  <a href="https://github.com/rbgus4560/pc-parts-crawler-service"><img src="assets/projects/pc-parts-card.svg" width="32%" alt="PC 부품 데이터 통합 검색. 컴퓨존·다나와 상품을 수집하고 부품 검색과 가격 이력 조회를 제공합니다. 기술 Python, Selenium, Flask, PostgreSQL"></a>
+  <a href="https://github.com/rbgus4560/hospital-record-management-service"><img src="assets/projects/hospital-ocr-card.svg" width="32%" alt="병원 영수증 OCR 기록·일정 관리. 영수증 인식 결과를 검토하고 환자별 기록과 일정을 저장합니다. 기술 React, FastAPI, CLOVA OCR, PostgreSQL"></a>
+</p>
 
 **팀 프로젝트** · [AI 안전 관제 시스템](https://github.com/rbgus4560/project01_Safety-AI-Monitoring-Service)
 
