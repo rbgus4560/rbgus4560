@@ -56,13 +56,48 @@ C# / .NET 기반 **Windows 응용 프로그램 개발**을 중심으로
 
 ##  프로젝트
 
-| 프로젝트 | 설명 | 기술 | &nbsp;비&#8288;고&nbsp; |
-|---|---|---|:---:|
-| [**AI 안전 관제 시스템**](https://github.com/rbgus4560/project01_Safety-AI-Monitoring-Service.git) | 영상 객체 탐지 결과를 서버로 전달하고, 서버의 룰 기반 이벤트 판정·저장과 관제 뷰어를 연결한 산업안전 팀 프로젝트 | Flutter · Dart · Python · FastAPI · YOLO | - |
-| [**CNN 이미지 분류 및 학습 조건 비교**](https://github.com/rbgus4560/cnn-learning-experiments) | CNN 구조·학습·평가를 이해하고 Keras·PyTorch, 옵티마이저·모델 구조에 따른 결과를 비교한 학습 프로젝트 (비공개 저장소) | Python · TensorFlow/Keras · PyTorch · scikit-learn | - |
-| [**PC 부품 크롤링·가격 비교 서비스**](https://github.com/rbgus4560/pc-parts-crawler-service) | 컴퓨존·다나와 상품을 수집하고 규격별로 정제·저장해 웹 검색·가격 이력·기본 호환성을 조회하는 시스템 | Python · Requests · Selenium · BeautifulSoup · Flask · PostgreSQL | - |
-| [**얼굴 인식 출입 통제 시스템**](https://github.com/rbgus4560/access-control-system) | 방향별 얼굴 등록과 전체 직원 식별, 서버 권한 판정·출입 기록, 실시간 영상 관제·녹화·재생을 연결한 시스템 | C# · .NET 10 · WPF · Python · ArcFace · MediaPipe · OpenCV · PostgreSQL · TCP/IP·TLS | - |
-| [**병원 영수증 OCR 기록·일정 관리 웹**](https://github.com/rbgus4560/hospital-record-management-service) | 영수증 OCR 결과를 원본과 대조·수정하고 환자별 기록·일정을 React 메모리로 관리하며 PDF·ZIP으로 내보내는 웹 과제 | React · Python · FastAPI · CLOVA OCR · jsPDF · JSZip | 진&#8288;행&nbsp;중 |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/rbgus4560/access-control-system"><img src="https://raw.githubusercontent.com/rbgus4560/access-control-system/main/AccessControl_UI/docs/images/system-architecture.png" alt="얼굴 인식 출입 통제 시스템 구성도" width="260" height="143"></a>
+      <br><sub>Windows · 컴퓨터 비전</sub>
+      <br><strong><a href="https://github.com/rbgus4560/access-control-system">얼굴 인식 출입 통제 시스템 ↗</a></strong>
+      <p>얼굴 식별과 출입 권한 판정을 연결하고, WPF에서 실시간 영상과 출입 기록을 확인합니다.</p>
+      <code>C#</code> <code>WPF</code> <code>Python</code> <code>OpenCV</code>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/rbgus4560/pc-parts-crawler-service"><img src="https://raw.githubusercontent.com/rbgus4560/pc-parts-crawler-service/main/docs/images/system-architecture.png" alt="PC 부품 수집부터 가격 조회까지의 흐름" width="260" height="143"></a>
+      <br><sub>웹 · 데이터 수집</sub>
+      <br><strong><a href="https://github.com/rbgus4560/pc-parts-crawler-service">PC 부품 크롤링·가격 비교 ↗</a></strong>
+      <p>컴퓨존과 다나와의 상품을 수집·정제해 부품 검색과 가격 이력 조회를 제공합니다.</p>
+      <code>Python</code> <code>Selenium</code> <code>Flask</code> <code>PostgreSQL</code>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/rbgus4560/hospital-record-management-service"><img src="https://raw.githubusercontent.com/rbgus4560/hospital-record-management-service/main/docs/screenshots/home-dashboard.png" alt="병원 영수증 기록과 일정 관리 홈 화면" width="260" height="143"></a>
+      <br><sub>웹 · OCR</sub>
+      <br><strong><a href="https://github.com/rbgus4560/hospital-record-management-service">병원 영수증 OCR·일정 관리 ↗</a></strong>
+      <p>영수증 OCR 결과를 검토·수정하고 환자별 기록과 일정을 저장합니다.</p>
+      <code>React</code> <code>FastAPI</code> <code>CLOVA OCR</code> <code>PostgreSQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/rbgus4560/cnn-learning-experiments"><img src="assets/projects/cnn.svg" alt="이미지 입력, CNN 특징 추출, 분류 결과 흐름" width="260" height="143"></a>
+      <br><sub>딥러닝 실험 · 비공개</sub>
+      <br><strong><a href="https://github.com/rbgus4560/cnn-learning-experiments">CNN 이미지 분류·학습 비교 ↗</a></strong>
+      <p>프레임워크, 옵티마이저와 모델 구조를 바꿔 이미지 분류 결과를 비교했습니다.</p>
+      <code>Python</code> <code>Keras</code> <code>PyTorch</code> <code>scikit-learn</code>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/rbgus4560/project01_Safety-AI-Monitoring-Service"><img src="assets/projects/safety.svg" alt="객체 탐지, 서버 이벤트 판정, 실시간 관제 흐름" width="260" height="143"></a>
+      <br><sub>산업 안전 · 팀 프로젝트</sub>
+      <br><strong><a href="https://github.com/rbgus4560/project01_Safety-AI-Monitoring-Service">AI 안전 관제 시스템 ↗</a></strong>
+      <p>영상의 객체 탐지 결과를 서버에서 위험 이벤트로 판정하고 관제 화면에 표시합니다.</p>
+      <code>Flutter</code> <code>Python</code> <code>FastAPI</code> <code>YOLO</code>
+    </td>
+    <td width="33%"></td>
+  </tr>
+</table>
 
 ---
 
