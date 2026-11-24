@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="286" viewBox="0 0 520 286" role="img" aria-label="DETECT to EVENT to MONITOR">
+  <rect width="520" height="286" rx="24" fill="#13362d"/>
+  <g fill="none" stroke="#8fe7ba" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M70 110V94h19m22 0h19v16m0 23v16h-19m-22 0H70v-16"/><path d="M82 132v-8a18 18 0 0 1 36 0v8m-39 0h42m-21-26v11"/>
+    <rect x="226" y="95" width="68" height="56" rx="8"/><path d="M226 117h68m-53-11h2m8 0h2m-12 22h2m8 0h2"/>
+    <rect x="386" y="96" width="68" height="48" rx="7"/><path d="M420 144v10m-14 0h28m-37-26 12-8 10 4 16-13"/>
+    <path d="M155 123h48m-9-8 9 8-9 8m123-8h48m-9-8 9 8-9 8" opacity=".65"/>
+  </g>
+  <g fill="#8fe7ba" font-family="sans-serif" font-size="19" font-weight="bold" text-anchor="middle" letter-spacing="2">
+    <text x="100" y="196">DETECT</text>
+    <text x="260" y="196">EVENT</text>
+    <text x="420" y="196">MONITOR</text>
+  </g>
+</svg>
