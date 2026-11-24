@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="286" viewBox="0 0 520 286" role="img" aria-label="IMAGE to CNN to CLASS">
+  <rect width="520" height="286" rx="24" fill="#162450"/>
+  <g fill="none" stroke="#83b6ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="62" y="94" width="72" height="58" rx="8"/><circle cx="82" cy="111" r="5"/><path d="m65 146 22-23 12 12 11-10 22 21"/>
+    <rect x="223" y="90" width="48" height="48" rx="6"/><rect x="232" y="99" width="48" height="48" rx="6" fill="#162450"/><rect x="241" y="108" width="48" height="48" rx="6" fill="#162450"/><path d="M257 108v48m16-48v48m-32-32h48m-48 16h48"/>
+    <rect x="394" y="96" width="58" height="54" rx="8"/><path d="m408 124 8 8 21-21"/>
+    <path d="M155 123h48m-9-8 9 8-9 8m123-8h48m-9-8 9 8-9 8" opacity=".65"/>
+  </g>
+  <g fill="#83b6ff" font-family="sans-serif" font-size="19" font-weight="bold" text-anchor="middle" letter-spacing="2">
+    <text x="100" y="196">IMAGE</text>
+    <text x="260" y="196">CNN</text>
+    <text x="420" y="196">CLASS</text>
+  </g>
+</svg>
